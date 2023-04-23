@@ -1,0 +1,14 @@
+.navbar{
+    background-color: rgb(226, 232, 232);
+    width: 100%;
+}
+.title{
+    color: aliceblue;
+}
+.input{
+    width: 520px;
+   margin-right: 200px;
+   height: 40px;
+   border-radius: 8px;
+
+}
